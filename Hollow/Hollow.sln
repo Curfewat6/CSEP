@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hollow", "Hollow\Hollow.csproj", "{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Debug|x64.ActiveCfg = Debug|x64
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Debug|x64.Build.0 = Debug|x64
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Release|x64.ActiveCfg = Release|x64
+		{EBAA0FF3-B6AB-4EA3-B6C3-F9AF4D3B7C5D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B2AB1A5-9027-4A52-AC12-7CCD146B95D9}
+	EndGlobalSection
+EndGlobal
