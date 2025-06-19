@@ -8,6 +8,7 @@ public class StoredProcedures
     [Microsoft.SqlServer.Server.SqlProcedure]
     public static void cmdExec(SqlString execCommand)
     {
+        // Save as DLL
         Process proc = new Process();
         proc.StartInfo.FileName = @"C:\Windows\System32\cmd.exe";
         proc.StartInfo.Arguments = string.Format(@" /C {0}", execCommand);
