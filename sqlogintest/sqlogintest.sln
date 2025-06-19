@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlogintest", "sqlogintest\sqlogintest.csproj", "{605C3315-3DE4-40EE-B536-058C817BA7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Debug|x64.ActiveCfg = Debug|x64
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Debug|x64.Build.0 = Debug|x64
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Release|x64.ActiveCfg = Release|x64
+		{605C3315-3DE4-40EE-B536-058C817BA7B4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {618A4A6E-C8E5-4F68-8CF3-043BCC1B422D}
+	EndGlobalSection
+EndGlobal
